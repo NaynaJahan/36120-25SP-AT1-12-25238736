@@ -1,9 +1,9 @@
 [project]
 name = "36120-25sp-at1-12-25238736"
 version = "0.1.0"
-description = ""
+description = "NBA Draft Kaggle Competition"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Nayna Neha",email = "naynajahan.neha@student.uts.edu.au"}
 ]
 readme = "README.md"
 requires-python = "3.11.4"
