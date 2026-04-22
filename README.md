@@ -4,7 +4,15 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A short description of the project.
+The NBA draft is an annual event in which teams select players from their American colleges as well as international professional leagues to join their rosters. Sport commentators and fans are very excited to follow the careers of college players and guess who will be drafted by an NBA team.
+
+In this project, a model is built that predicts if a college basketball player will be drafted to join the NBA league based on his statistics for the current season. Best predictions from the trained ML models are submitted on a UTS-provided Kaggle Competition as well. 
+
+The metric used to assess model performance is AUROC (Area Under ROC).
+
+The best models artefacts can be found in the `models/` folder.
+Provide the pyproject.toml  and requirements.txt files at the root of your repository.
+Some functionalities are imported and used from a custom Python package that is uploaded in Testpypi. (Codes for the custom Python package can be found here: https://github.com/NaynaJahan/amla_at1_python_pkg).
 
 ## Project Organization
 
